@@ -1,3 +1,4 @@
+# Weather App
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Lightweight weather application powered by the weatherapi.com API. It offers real-time weather updates and forecasts for any location worldwide. With a clean interface and customizable features, it's the perfect companion for planning your day or staying informed about the weather.
